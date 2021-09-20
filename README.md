@@ -1,2 +1,14 @@
 # alura-administrador-de-redes
-Administrador de Redes - Tudo que você precisa para administrar redes.
+Alura: Formação em  Administrador de Redes 
+- Tudo que você precisa para administrar redes.
+
+- 01
+- 02
+- 03
+- 04
+- 05
+- 06
+- 07
+- 08
+- 09 curso-de-linux-i - Curso de Linux I: Conhecendo e utilizando o terminal
+- 10

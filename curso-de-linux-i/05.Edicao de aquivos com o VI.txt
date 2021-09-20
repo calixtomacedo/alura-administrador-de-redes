@@ -1,0 +1,9 @@
+vi google.txt
+
+Para inserir texto TECLA I -> INSERT
+ESQ para sair do mode de edicão
+: abrir menu de comando
+:w salvar
+:wq salvar e sair
+:q sair
+:q! sair sem salvar

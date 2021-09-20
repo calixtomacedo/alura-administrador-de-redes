@@ -1,0 +1,5 @@
+Compiando arquivo cp mensagem.txt bemvindo.txt
+Movendo arquivo mv mensagem.txt bemvindo2.txt
+Compactando arquivos: zip -r work.zip workspace
+Compactando arquivos: zip -rq work.zip workspace
+Descompactando arquivos: unzip -l work.zip

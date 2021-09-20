@@ -1,0 +1,13 @@
+Diretório atual: pwd
+Listar arquivos e diretórios: ls
+Criar arquivos: echo "Bem vindo" > bemvindo.txt
+Lendo arquivo: cat bemvindo.txt
+limpar tela: clear
+detalhes: 
+ls -l
+ls -la
+
+comando help: man pwd
+q para sair do visualizador
+
+whoami: O nome do usuário no Linux

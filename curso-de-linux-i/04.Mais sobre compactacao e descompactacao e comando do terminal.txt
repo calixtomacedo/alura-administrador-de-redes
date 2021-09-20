@@ -1,0 +1,13 @@
+Compactando arquivos: tar -cz workspace > work.tar.gz 
+
+Descompactando arquivos: tar -xz < work.tar.gz 
+
+date "+%d/%m/%Y"
+
+
+head google.txt
+head -n 3 google.txt
+
+tail google.txt
+
+less google.txt

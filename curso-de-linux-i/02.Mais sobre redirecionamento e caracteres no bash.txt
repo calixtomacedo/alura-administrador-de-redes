@@ -1,0 +1,8 @@
+echo "Calixto Macedo" > familia.txt
+echo "Isabel Macedo" >> familia.txt
+
+criando diretório: mkdir workspace
+removendo diretório: rmdir projeto-java
+apagar arquivo: rm familia.txt
+tendo todos os arquivos de extensão txt: cat *.txt
+apagar diretorio de seu conteudo: rm -r workspace
