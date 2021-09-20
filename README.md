@@ -11,4 +11,4 @@ Alura: Formação em  Administrador de Redes
 - 07
 - 08
 - 09 curso-de-linux-i - Curso de Linux I: Conhecendo e utilizando o terminal
-- 10
+- 10 curso-de-linux-ii - Curso de Linux II: Programas, processos e pacotes

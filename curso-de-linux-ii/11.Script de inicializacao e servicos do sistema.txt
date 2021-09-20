@@ -1,0 +1,10 @@
+sudo service mysql stop
+
+sudo apt-get install vsftpd
+
+sudo service vsftpd stop
+
+sudo service vsftpd start
+
+ls /etc/init.d/
+

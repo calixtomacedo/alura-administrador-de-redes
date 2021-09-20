@@ -1,0 +1,2 @@
+locate firefox: busca tudo com o nome firefox
+sudo updatedb

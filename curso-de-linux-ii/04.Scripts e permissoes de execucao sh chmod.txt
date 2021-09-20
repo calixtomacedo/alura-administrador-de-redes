@@ -1,0 +1,16 @@
+gedit dorme &
+
+echo "Vou dormir"
+sleep 5
+echo "Terminei de dormir"
+
+d = significa que é um diretorio
+
+pemissões:
+r: leitura
+w: escrita
+x: execução
+
+chmod +x dorme: Atribui permissão de execução
+chmod -x dorme: Remove permissão de execução
+./dorme

@@ -1,0 +1,8 @@
+path variaveis de ambiente: env
+
+env | grep PATH
+
+adicionando coisa no path
+PATH=$PATH:/endereco
+
+gedit .bashrc &

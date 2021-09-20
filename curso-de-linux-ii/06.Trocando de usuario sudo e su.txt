@@ -1,0 +1,6 @@
+which firefox: mostra onde esta o executável
+
+trocar senha: passwd
+troca senha do root: sudo passwd
+logar como root: su root
+whoami

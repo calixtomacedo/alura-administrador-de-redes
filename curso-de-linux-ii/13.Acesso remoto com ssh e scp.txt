@@ -1,0 +1,13 @@
+sudo apt-get install ssh
+
+ssh rosy@localhost
+
+ssh -X rosy@localhost
+
+
+Copiando arquivos
+scp work.zip rosy@localhost:home/rosy
+scp work.zip rosy@localhost:~/
+
+Recursivo
+scp -r work.zip rosy@localhost:~/ 

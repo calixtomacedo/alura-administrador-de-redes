@@ -1,0 +1,12 @@
+PS --> processos rodando no momento local
+PS -e --> Totos processos rodando no momento 
+
+PS -ef --> Todos processos rodando no momento com detalhes 
+
+kill 2400 --> mata um processo em execução
+
+kill -9 2400 --> mata um processo em execução sem chance de recuperar
+
+PS -ef | grep --> Totos processos rodando no momento com detalhes 
+
+

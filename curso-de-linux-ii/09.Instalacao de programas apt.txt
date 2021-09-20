@@ -1,0 +1,10 @@
+sudo apt-get update
+
+procurar um programa:
+apt-cache search vsftp
+
+instalar um programa 
+sudo apt-get install vsftp
+
+Desistalar um programa
+sudo apt-get remove vsftp

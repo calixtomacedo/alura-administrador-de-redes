@@ -1,0 +1,5 @@
+Criando novo user: sudo adduser nico
+
+removendo permisão chmod o-rx rosy
+
+chmod o-rx jose/

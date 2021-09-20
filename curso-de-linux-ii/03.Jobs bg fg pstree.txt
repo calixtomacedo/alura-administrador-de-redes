@@ -1,0 +1,4 @@
+top --> ver o consumo processador e memoria
+killall -9 top
+ps mostra processo
+pstree mostra a arvore de processos

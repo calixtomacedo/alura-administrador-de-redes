@@ -1,0 +1,7 @@
+Instalando via dpkg
+
+dpkg -i nome
+
+
+Desistalando
+dpkg -r nome do pacote
