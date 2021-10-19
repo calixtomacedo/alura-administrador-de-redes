@@ -2,7 +2,7 @@
 Alura: Formação em  Administrador de Redes 
 - Tudo que você precisa para administrar redes.
 
-- 01
+- 01 curso-de-redes-parte-1 - Curso de Redes parte 1: Introdução, Conceitos e Prática
 - 02
 - 03
 - 04
