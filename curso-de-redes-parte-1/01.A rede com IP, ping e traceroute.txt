@@ -1,0 +1,6 @@
+Windows
+tracert -d www.google.com.br
+
+
+Linux 
+traceroute www.google.com.br

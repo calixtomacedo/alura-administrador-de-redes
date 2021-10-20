@@ -1,0 +1,12 @@
+02.DNS, hubs e as conexões de máquinas
+
+alteração/criação de DNS no hosts
+C:\Windows\System32\drivers\etc
+
+Caso seja Mac: Abrir o terminal e digitar: 
+sudo vi /private/etc/hosts
+
+Caso seja Linux: Abrir o terminal e digitar: 
+sudo nano /etc/hosts
+
+nslookup
